@@ -173,7 +173,7 @@ Postman</b>.</span></p>
 style='font-size:14.0pt;line-height:107%'>”</span></b><span style='font-size:
 14.0pt;line-height:107%'> в левом верхнем углу.</span></p>
 
-![1](https://github.com/user-attachments/assets/3179a787-6834-4825-be72-351ffba292e5)
+![1](main/1.png)
 
 
 <p class=MsoNormal><span style='font-size:14.0pt;line-height:107%'>Нажмите
